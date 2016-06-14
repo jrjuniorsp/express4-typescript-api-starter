@@ -5,6 +5,7 @@ This is a starter project for who is looking for a sample that uses "Express4 + 
 ##Requeriment:
 
 - Node.JS already installed
+- Typescript installed (npm install -g typescript)
 
 ## Install
 ```
